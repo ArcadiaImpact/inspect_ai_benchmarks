@@ -1,0 +1,18 @@
+[project]
+name = "inspect_ai_benchmarks"
+version = "0.0.1"
+authors = [
+  { name="Arcadia Impact", email="contact@arcadiaimpact.org" },
+]
+description = "A registry of LLM evaluation benchmarks"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ArcadiaImpact/inspect_ai_benchmarks"
+Issues = "https://github.com/ArcadiaImpact/inspect_ai_benchmarks/issues"
